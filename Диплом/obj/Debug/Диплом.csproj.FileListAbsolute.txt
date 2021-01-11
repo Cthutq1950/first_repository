@@ -1,0 +1,8 @@
+C:\Users\Сергей\Desktop\ДИПЛОООМ!\Диплом\Диплом\bin\Debug\Диплом.exe.config
+C:\Users\Сергей\Desktop\ДИПЛОООМ!\Диплом\Диплом\bin\Debug\Диплом.exe
+C:\Users\Сергей\Desktop\ДИПЛОООМ!\Диплом\Диплом\bin\Debug\Диплом.pdb
+C:\Users\Сергей\Desktop\ДИПЛОООМ!\Диплом\Диплом\obj\Debug\Диплом.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\ДИПЛОООМ!\Диплом\Диплом\obj\Debug\Диплом.csproj.ResolveComReference.cache
+C:\Users\Сергей\Desktop\ДИПЛОООМ!\Диплом\Диплом\obj\Debug\Диплом.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\ДИПЛОООМ!\Диплом\Диплом\obj\Debug\Диплом.exe
+C:\Users\Сергей\Desktop\ДИПЛОООМ!\Диплом\Диплом\obj\Debug\Диплом.pdb
